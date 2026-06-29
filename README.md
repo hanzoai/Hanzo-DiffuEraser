@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="Hanzo-DiffuEraser" width="880"></p>
+
 # Hanzo-DiffuEraser
 
 **Content-aware inpainting for the Hanzo ecosystem**
