@@ -2,6 +2,8 @@
 
 # Hanzo-DiffuEraser
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/Hanzo-DiffuEraser&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/Hanzo-DiffuEraser&ref=main&action=edit)
+
 **Content-aware inpainting for the Hanzo ecosystem**
 
 Part of [Hanzo Painter](https://github.com/hanzoai/painter) - AI-powered watermark removal and video inpainting platform.
